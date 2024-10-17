@@ -1,0 +1,19 @@
+Resumen del Learning Path de Oracle MySQL Database
+Este curso explora los beneficios y la administración básica de MySQL, un sistema de bases de datos ampliamente utilizado. A lo largo del curso, se cubren temas clave sobre los productos, servicios profesionales, y recursos de ayuda para MySQL. Además, se detalla la importancia de seleccionar el producto adecuado para las necesidades de una organización y cómo acceder a información fiable en sitios como dev.mysql.com.
+
+Edición Enterprise de MySQL:
+MySQL Enterprise Edition ofrece una base de datos segura, con soporte para transacciones y cumplimiento ACID.
+Incluye herramientas avanzadas como:
+MySQL Enterprise Monitor: Visibilidad en tiempo real del rendimiento de todas las bases de datos.
+MySQL Workbench Enterprise: Interfaz gráfica para diseñar, desarrollar y administrar MySQL.
+MySQL Enterprise Backup: Realiza copias de seguridad seguras en línea sin bloquear la base de datos.
+Soporte 24/7/365 a nivel mundial.
+Integración con otros productos de Oracle:
+Oracle Linux: Ejecuta MySQL en este sistema operativo.
+Oracle GoldenGate: Para replicación y operaciones ETL.
+Oracle Secure Backup: Gestión centralizada de copias de seguridad en disco, cinta y nube.
+Recursos y Comunidad:
+MySQL cuenta con una comunidad grande y activa donde es posible compartir información, reportar errores y acceder a recursos clave. Se recomienda tener cuidado al buscar información, asegurándose de utilizar fuentes fiables y relevantes para la versión y edición de MySQL utilizada.
+
+Roles clave:
+Este contenido es relevante para cualquier rol que utilice servicios de MySQL, como administradores de bases de datos (DBA), desarrolladores de aplicaciones basadas en datos y responsables de la seguridad en bases de datos y redes.
